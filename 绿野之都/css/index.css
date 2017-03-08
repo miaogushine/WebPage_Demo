@@ -92,7 +92,7 @@ body{
 }
 .wrap .middle .look{
 	float:left;
-	margin-left: 55px;
+	margin-left: 95px;
 }
 .wrap .middle  .look span{
 	display:block;
@@ -112,7 +112,7 @@ body{
 }
 .wrap .middle .intr{
 	float:right;
-	margin-left:30px;
+	/* margin-left:30px; */
 }
 .wrap .middle  .intr span{
 	display:inline-block;
